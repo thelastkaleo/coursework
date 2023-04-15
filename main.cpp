@@ -49,47 +49,6 @@ int main()
         }
 
     } while (choice != 0);
-   
-    
-    
-    
-    
-    
-  //  initLoginFile(userdatalist);
-
-    //if (!adduser(userdatalist))
-    //  std::cout << "bad user name:" << std::endl;
-
-   
- //   printloginfile(userdatalist);
-
-  //  if (deluser(userdatalist))
-   //     std::cout << "User deleted" << std::endl;
-
- 
-   /* printloginfile(userdatalist);
-
-
-   if (authorization(userdatalist))
-        std::cout << "Welcom!" << std::endl;
-    else
-        std::cout << "Access denied!" << std::endl;
-
-
-    std::vector <ticket> ticketlist;
-
-    std::vector <sales> saleslist;
-
-    readticketfile(ticketlist);
-    readsalesfile(saleslist);*/
-
-
-    std::cout << monthcost(1994, "april", "bus")<< std::endl;
-    std::cout << monthcost(1994, "april", "trolleybus") << std::endl;
-    std::cout << result(1994, "april") << std::endl;
-    populartransport(1994, "april");
-
-    printtransport();
     return 0;
 }
 
