@@ -1,0 +1,4 @@
+bus 5.02
+trolleybus 6.34
+metro 3.43
+tram 4.67
